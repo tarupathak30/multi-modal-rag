@@ -1,0 +1,9 @@
+pymupdf
+pillow
+groq
+chromadb
+sentence-transformers
+python-dotenv
+pydantic
+rich
+pathlib
