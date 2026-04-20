@@ -11,7 +11,7 @@ Tested on *Attention Is All You Need* (1706.03762) — correctly retrieved BLEU 
 | **pymupdf** | PDF/image extraction |
 | **sentence-transformers** | Local embeddings (all-MiniLM-L6-v2) |
 | **chromadb** | Vector store |
-| **groq** | LLaMA-3-70B inference |
+| **groq** | openai/gpt-oss-20b inference |
 | **sqlite3** | Structured storage |
 | **rich** | Terminal UI |
 
